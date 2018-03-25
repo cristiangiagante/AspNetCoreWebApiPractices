@@ -8,4 +8,5 @@ http://aspnetcoreapipractices.azurewebsites.net/
 
 Api Actions:
 api/products
+
 api/products/id
